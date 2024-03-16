@@ -1,1 +1,1 @@
-console.log("Hello Git, I am learning u.");
+console.log("Hello Git, I am learning u for first time.");
